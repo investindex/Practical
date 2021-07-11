@@ -11,3 +11,9 @@ If you decide to use fractional shares through Fidelity, you should be aware of 
 In contrast to stocks and ETFs, mutual funds are not traded during market hours. Instead, once you submit an order to buy or sell shares of a mutual fund, the order will not execute until the conclusion of market hours. The order cutoff time is 4pm ET. Remember: _if you submit a buy or sell order after 4pm, it will not execute that day_. Another day of trading will occur before the order is executed after market hours. An order can be cancelled until 4pm on the day it will be executed.
 
 For logistical and financial reasons, mutual funds prohibit frequent trading. Fidelity mutual funds suspend users from purchasing further shares for 85 days if their [rules](personal.fidelity.com/products/trading/Trading_Platforms_Tools/excessive_trading_policies.shtml) are violated. A single, occasional sale within 30 days of a purchase is acceptable. Suspension will occur if you sell shares within 30 days of a purchase more than once within a 90-day period. They will never block sales, only purchases. Trades of $1,000 or less are exempt from this policy and will never trigger a block. There are no such restrictions on ETF trading.
+
+&nbsp;
+
+[Click here for the next section — Taxes](https://github.com/investindex/Taxes)
+
+&nbsp;
