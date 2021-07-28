@@ -1,8 +1,12 @@
 # Practical information for execution
 
+#### Brokerage accounts
+
 BlackRock, State Street, and Avantis do not offer brokerage services, so their products must be purchased through other institutions. You can (but do not need to) create a Fidelity, Vanguard, or Schwab brokerage account to use their products. E\*Trade is an additional example of a broker through which you could buy shares of some funds. As discussed earlier, a Fidelity account offers the advantage of trading fractional shares of ETFs. Vanguard’s website is difficult to use compared to its peers, so even if you decide on Vanguard funds, you may want to purchase them through Fidelity or Schwab.
 
 Before moving your money into a particular brokerage account, ensure that it is possible to buy shares in all of the funds you’re considering. Find out what fees, if any, the broker charges upon purchase and sale, and whether there is a minimum investment. The money from your first transfer may not be available to trade with for a few business days. And when you want to move money from investments to your bank account, the funds will not be available to withdraw until [two business days](https://www.investopedia.com/terms/s/settlement_period.asp) after you close the corresponding position. So if you sold shares of a bond ETF on a Friday, the soonest you could transfer the money would be Tuesday morning (assuming no federal holidays). However, if you have enabled [margin](https://www.investopedia.com/terms/m/margin.asp) features in your account, many brokers will permit you to transfer funds immediately after selling, up to a certain portion of your total account value.
+
+#### Dividends and rebalancing
 
 It is advisable to select the option to reinvest dividends and capital gains distributions in your settings. It will increase the shares you own and magnify compounding growth. Alternatively, you could refrain from automatically reinvesting and use each dividend as an opportunity to partially [rebalance](https://www.investopedia.com/terms/r/rebalancing.asp) your portfolio. Either way, most people are best served by not treating dividends as a form of immediate income, but rather as a portion of their shares which they were forced to sell. (See [this video](https://www.youtube.com/watch?v=f5j9v9dfinQ&ab_channel=BenFelix) on the irrelevance of dividends.)
 
@@ -12,9 +16,13 @@ You can use the same approach when investing your income.
 
 You may want to automatically reinvest dividends and refrain from rebalancing, which will
 
+#### Fractional shares
+
 If you decide to use fractional shares through Fidelity, you should be aware of a few details. Dealing in fractional shares may mean that your trade cannot be executed instantly in full, because the broker purchases your whole shares immediately but needs to combine your fractional share with those owned by others. Since mainstream ETFs are rarely volatile, this will not matter in the vast majority of cases, but you should be aware of it. No matter how many ETFs are in an allocation plan, it is necessary to buy only one fractional share, and this is wise even if it means that the proportions will not be perfect.
 
 It is easiest to buy a fractional share of the fund with the most assets under management, because this is likely to be the most liquid (i.e., quickly tradable at minimal cost). The 30-day median bid-ask spread is a more direct way of assessing liquidity than assets under management, because the bid-ask spread is the cost you pay to trade. Lower is better. In the most liquid ETFs, the median spread will be .01% or may even round down to .00%. Selecting a large ETF with a very low bid-ask spread is likely to lead to an immediate execution of the fractional trade. After your initial allocation you will eventually need to invest more money into your funds, because you've earned income or received dividends. You may want to always use the money left over after purchasing whole shares to purchase a fractional share of the most liquid fund, but this is not essential, as long as you understand that the trade may not execute instantly and that the price can change in the intervening seconds. However, you can use a [limit order](https://www.investopedia.com/terms/l/limitorder.asp) instead of a market order to prevent any surprises about the share price; this is good practice in general.
+
+#### Mutual funds
 
 In contrast to stocks and ETFs, mutual funds are not traded during market hours. Instead, once you submit an order to buy or sell shares of a mutual fund, the order will not execute until the conclusion of market hours. The order cutoff time is 4pm ET. Remember: _if you submit a buy or sell order after 4pm, it will not execute that day_. Another day of trading will occur before the order is executed after market hours. An order can be cancelled until 4pm on the day it will be executed.
 
