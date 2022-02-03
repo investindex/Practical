@@ -8,6 +8,16 @@ Before moving your money into a particular brokerage account, ensure that it is 
 
 The money from your first transfer may not be available to trade with for a few business days. Later transfers often become available more promptly. When you want to move money from investments to your bank account, the funds will not be available to withdraw until [two business days](https://www.investopedia.com/terms/s/settlement_period.asp) after you sell the corresponding shares. So if you sold shares of a bond ETF on a Friday, the soonest you could transfer the money would be Tuesday morning (assuming no federal holidays; the time of day does not matter). This restriction can be lifted: if you enable margin features in your account, you can transfer funds immediately after selling, up to a certain portion of your total account value. With a [margin account](https://www.sec.gov/oiea/investor-alerts-and-bulletins/ib_marginaccount), you can also sell shares of an ETF and immediately buy shares of a new one, instead of waiting two days in a cash account. For these reasons, I recommend enabling margin in your account. By law, a minimum of $2,000 is required to activate margin features. Ensure that you understand how margin works, even if you need to call your broker to clarify terminology — different brokers use different words for the same concepts. Margin accounts allow you to borrow funds from your broker (and pay interest), which is not a practice I would suggest for most investors. Stock and bond mutual fund trades generally settle within only one business day (e.g., a sale is executed on Monday evening and the funds settle on Tuesday).
 
+&nbsp;
+
+#### Large price drops and distributions — don't panic
+
+Some funds may have large distributions at the end of the year, triggering unusually large price drops. (If you need a refresher on dividends and price drops, [click here](https://github.com/investindex/Index#f3).) Take Vanguard's total international bond fund (BNDX) as an example. Throughout 2021, monthly dividends [ranged](https://investor.vanguard.com/etf/profile/distributions/bndx) from 3-4 cents per share. The price changes due to these distributions were barely noticeable. Then on December 23, the price dropped by 3% from $57.10 to $55.36. This can be a source of dismay for new investors who might think they rapidly lost a surprising amount of money from what they considered a safe bond fund. Then on December 29, they would have seen a large distribution land in their account. Following a dividend of three cents per share at the beginning of December, the fund's end of year distributions were a dividend of $1.25 per share, long-term capital gains of 36 cents per share, and short-term capital gains of half a cent per share (totaling about $1.62 per share).
+
+This section is simply meant to warn you about a price drop you may (or may not!) observe in some of your funds at the end of each year. You can always check the ex-dividend date and payment date ahead of time. Schwab has the best interface for reading about distributions, because they make it very easy to see the dates and composition of different distributions. Just type the ticker symbol in their search bar and click the "Distributions" tab (you need a Schwab account to use this feature).
+
+&nbsp;
+
 #### Dividends and rebalancing
 
 It is advisable to select the option to reinvest dividends and capital gains distributions in your settings. It will increase the shares you own and magnify compounding growth. Alternatively, you could refrain from automatically reinvesting and use each dividend as an opportunity to partially [rebalance](https://www.investopedia.com/terms/r/rebalancing.asp) your portfolio. Either way, most people are best served by not treating dividends as a form of immediate income, but rather as a portion of their shares which they were forced to sell. (See [this video](https://www.youtube.com/watch?v=f5j9v9dfinQ&ab_channel=BenFelix) on the irrelevance of dividends.)
@@ -18,6 +28,8 @@ You can use the same approach when investing your earned income (i.e., salary or
 
 When rebalancing on a schedule, quarterly is the most common frequency. You might also rebalance if your allocation drifts past certain thresholds. For example, in the 35%/35%/30% example above, you might rebalance whenever a fund strays by more than 5 percentage points from its intended proportion. All rebalancing actions should be conducted with [tax implications](https://github.com/investindex/Taxes) in mind.
 
+&nbsp;
+
 #### Fractional shares
 
 If you decide to use fractional shares through Fidelity, you should be aware of a few details. Dealing in fractional shares may mean that your trade cannot be executed instantly in full, because the broker purchases your whole shares immediately but needs to combine your fractional share with those owned by others. The Plain Bagel's [video](https://www.youtube.com/watch?v=P3oZOg9yRuY&ab_channel=ThePlainBagel) on this is a great explanation. Since mainstream ETFs are rarely volatile, this will not matter in the vast majority of cases, but you should be aware of it. No matter how many ETFs are in an allocation plan, it is necessary to buy only one fractional share, and this is wise even if it means that the proportions will not be perfect.
@@ -27,6 +39,8 @@ It is easiest to buy a fractional share of the fund with the most assets under m
 Trading is most active after the market opens at 9:30am and as the close approaches at 4pm. If you buy new ETF shares between 11:30am and 1:30pm, it's likely that price movement will be relatively low. This doesn't mean it's a mistake to trade near market open or close — liquidity is actually highest when trading volume is high (i.e., bid-ask spreads are small) — but some people might find it mentally easier to execute trades when prices are stable.
 
 Schwab offers fractional shares only for S&P 500 stocks, so it's not currently possible to purchase fractional ETF shares through Schwab.
+
+&nbsp;
 
 #### Mutual funds
 
