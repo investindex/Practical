@@ -8,6 +8,14 @@ Before moving your money into a particular brokerage account, ensure that it is 
 
 The money from your first transfer may not be available to trade with for a few business days. Later transfers often become available more promptly. When you want to move money from investments to your bank account, the funds will not be available to withdraw until [two business days](https://www.investopedia.com/terms/s/settlement_period.asp) after you sell the corresponding shares. So if you sold shares of a bond ETF on a Friday, the soonest you could transfer the money would be Tuesday morning (assuming no federal holidays; the time of day does not matter). This restriction can be lifted: if you enable margin features in your account, you can transfer funds immediately after selling, up to a certain portion of your total account value. With a [margin account](https://www.sec.gov/oiea/investor-alerts-and-bulletins/ib_marginaccount), you can also sell shares of an ETF and immediately buy shares of a new one, instead of waiting two days in a cash account. For these reasons, I recommend enabling margin in your account. By law, a minimum of $2,000 is required to activate margin features. Ensure that you understand how margin works, even if you need to call your broker to clarify terminology — different brokers use different words for the same concepts. Margin accounts allow you to borrow funds from your broker (and pay interest), which is not a practice I would suggest for most investors. Stock and bond mutual fund trades generally settle within only one business day (e.g., a sale is executed on Monday evening and the funds settle on Tuesday).
 
+<!--
+&nbsp;
+
+#### Order types
+
+Trading is most active after the market opens at 9:30am and as the close approaches at 4pm. If you buy new ETF shares between 11:30am and 1:30pm, it's likely that price movement will be relatively low. This doesn't mean it's a mistake to trade near market open or close, but some people might find it mentally easier to execute trades when prices are stable.
+-->
+
 &nbsp;
 
 #### Large price drops and distributions — don't panic
@@ -35,8 +43,6 @@ When rebalancing on a schedule, quarterly is the most common frequency. You migh
 If you decide to use fractional shares through Fidelity, you should be aware of a few details. Dealing in fractional shares may mean that your trade cannot be executed instantly in full, because the broker purchases your whole shares immediately but needs to combine your fractional share with those owned by others. The Plain Bagel's [video](https://www.youtube.com/watch?v=P3oZOg9yRuY&ab_channel=ThePlainBagel) on this is a great explanation. Since mainstream ETFs are rarely volatile, this will not matter in the vast majority of cases, but you should be aware of it. No matter how many ETFs are in an allocation plan, it is necessary to buy only one fractional share, and this is wise even if it means that the proportions will not be perfect.
 
 It is easiest to buy a fractional share of the fund with the most assets under management, because this is likely to be the most liquid (i.e., quickly tradable at minimal cost). The 30-day median bid-ask spread is a more direct way of assessing liquidity than assets under management, because the bid-ask spread is the cost you pay to trade. Lower is better. In the most liquid ETFs, the median spread will be .01% or may even round down to .00%. Selecting a large ETF with a very low bid-ask spread is likely to lead to an immediate execution of the fractional trade. After your initial allocation you will eventually need to invest more money into your funds, because you've earned income or received dividends. You may want to always use the money left over after purchasing whole shares to purchase a fractional share of the most liquid fund, but this is not essential, as long as you understand that the trade may not execute instantly and that the price can change in the intervening seconds. However, you can use a [limit order](https://www.investopedia.com/terms/l/limitorder.asp) instead of a market order to prevent any surprises about the share price; this is good practice in general.
-
-Trading is most active after the market opens at 9:30am and as the close approaches at 4pm. If you buy new ETF shares between 11:30am and 1:30pm, it's likely that price movement will be relatively low. This doesn't mean it's a mistake to trade near market open or close, but some people might find it mentally easier to execute trades when prices are stable.
 
 Schwab offers fractional shares only for S&P 500 stocks, so it's not currently possible to purchase fractional ETF shares through Schwab.
 
