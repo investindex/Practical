@@ -1,6 +1,6 @@
 # Practical information for execution
 
-#### Brokerage accounts
+### Brokerage accounts
 
 Most of the fund providers do not offer brokerage services, so their products must be purchased through other institutions. You can (but do not need to) create a Fidelity, Vanguard, or Schwab brokerage account to use their products. E\*Trade is an additional example of a broker through which you could buy shares of some funds. As discussed earlier, a Fidelity account offers the advantage of trading fractional shares of ETFs. Vanguard’s website is difficult to use compared to its peers, so even if you decide on Vanguard funds, I would suggest purchasing them as ETFs through Fidelity or Schwab. Feel free to create an account with each broker to experience the website and mobile app.
 
@@ -12,7 +12,7 @@ If you want to switch brokers and you've already purchased securities, you can d
 
 &nbsp;
 
-#### Order types
+### Order types
 
 There are two basic order types everyone needs to know: [market order](https://www.investopedia.com/terms/m/marketorder.asp) and [limit order](https://www.investopedia.com/terms/l/limitorder.asp). A market order means you'll buy or sell shares immediately, at the best price your broker can arrange. A limit order does the same, but only if the available price is at least as good as the limit you specified. So when you're buying shares, the order will execute only when the price is at your limit or _lower_. When you're selling shares, it will execute only when the price is at your limit or _higher_.
 
@@ -28,7 +28,7 @@ None of this applies to mutual funds: there is no bid-ask spread and trades can 
 
 &nbsp;
 
-#### Large price drops and distributions — don't panic
+### Large price drops and distributions — don't panic
 
 Some funds may have large distributions at the end of the year, triggering unusually large price drops. (If you need a refresher on dividends and price drops, [click here](https://github.com/investindex/Index#f5).) Take Vanguard's total international bond fund (BNDX) as an example. Throughout 2021, monthly dividends [ranged](https://investor.vanguard.com/investment-products/etfs/profile/bndx#distributions) from 3-4 cents per share. The price changes due to these distributions were barely noticeable. On December 22, the closing price was $57.10. Then on the morning of December 23, the price [opened](https://finance.yahoo.com/quote/BNDX/history?period1=1640044800&period2=1640822400&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true) at $55.35, falling 3%. These drops can be a source of dismay for new investors who think they rapidly lost this money in what they considered a safe bond fund. On December 29, shareholders saw a large distribution land in their account. Following a dividend of three cents per share at the beginning of December, the fund's end of year distribution was composed of a dividend of $1.25 per share, long-term capital gains of 36 cents per share, and short-term capital gains of half a cent per share (totaling about $1.62 per share).
 
@@ -36,7 +36,7 @@ This section is simply meant to warn you about a price drop you may (or may not!
 
 &nbsp;
 
-#### Dividends and rebalancing
+### Dividends and rebalancing
 
 It is advisable to select the option to reinvest dividends and capital gains distributions in your settings. It will increase the shares you own and magnify compounding growth. Alternatively, you could refrain from automatically reinvesting and use each dividend as an opportunity to partially [rebalance](https://www.investopedia.com/terms/r/rebalancing.asp) your portfolio. Either way, most people are best served by not treating dividends as a form of immediate income, but rather as a portion of their shares which they were forced to sell. (See [this video](https://www.youtube.com/watch?v=f5j9v9dfinQ) on the irrelevance of dividends.)
 
@@ -50,7 +50,7 @@ When rebalancing on a schedule, quarterly is the most common frequency. You migh
 
 &nbsp;
 
-#### Fractional shares
+### Fractional shares
 
 If you decide to use fractional shares through Fidelity, you should be aware of a few details. Dealing in fractional shares may mean that your trade cannot be executed instantly in full, because the broker purchases your whole shares immediately but needs to combine your fractional share with those owned by others. The Plain Bagel's [video](https://www.youtube.com/watch?v=P3oZOg9yRuY) on this is a great explanation. Since mainstream ETFs are rarely volatile, this will not matter in the vast majority of cases, but you should be aware of it. No matter how many ETFs are in an allocation plan, it is necessary to buy only one fractional share, and this is wise even if it means that the proportions will not be perfect.
 
@@ -60,7 +60,7 @@ Schwab offers fractional shares only for S&P 500 stocks, so it's not currently p
 
 &nbsp;
 
-#### Mutual funds
+### Mutual funds
 
 In contrast to stocks and ETFs, mutual funds are not traded during market hours. Instead, once you submit an order to buy or sell shares of a mutual fund, the order will not execute until the conclusion of market hours. The order cutoff time is 4pm ET. Remember: _if you submit a buy or sell order after 4pm, it will not execute that day_. Another day of trading will occur before the order is executed after market hours. An order can be cancelled until 4pm on the day it will be executed.
 
