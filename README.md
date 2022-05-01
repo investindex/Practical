@@ -10,6 +10,14 @@ The money from your first transfer may not be available to trade with for a few 
 
 If you want to switch brokers and you've already purchased securities, you can do an account transfer to avoid selling and triggering taxes. Usually, there is no fee to _sell_ shares of another manager's mutual funds (e.g., if you owned Fidelity mutual funds and transferred to a Schwab account). However, buying more shares will trigger the same prohibitively expensive transaction fees. ETFs have the advantage of making account transfers easier, because you don't have to manage a transition away from the mutual funds you can no longer buy.
 
+<!--
+&nbsp;
+
+### Cash positions
+
+Your money being uninvested might seem too simple to bother addressing. But uninvested cash is actually one of the [major sources](https://www.wsj.com/articles/your-stock-trades-go-free-but-your-cash-is-in-chains-11570199582) of revenue for brokers, especially since trading commissions were [eliminated](https://www.wsj.com/articles/charles-schwab-ending-online-trading-commissions-on-u-s-listed-products-11569935983) in 2019.
+-->
+
 &nbsp;
 
 ### Order types
