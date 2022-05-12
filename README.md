@@ -46,7 +46,7 @@ This section is simply meant to warn you about a price drop you may (or may not!
 
 ### Dividends and rebalancing
 
-It is advisable to select the option to reinvest dividends and capital gains distributions in your settings. It will increase the shares you own and magnify compounding growth. Alternatively, you could refrain from automatically reinvesting and use each dividend as an opportunity to partially [rebalance](https://www.investopedia.com/terms/r/rebalancing.asp) your portfolio. Either way, most people are best served by not treating dividends as a form of immediate income, but rather as a portion of their shares which they were forced to sell. (See [this video](https://www.youtube.com/watch?v=f5j9v9dfinQ) on the irrelevance of dividends.)
+It is advisable to select the option to reinvest dividends and capital gains distributions in your settings. Alternatively, you could refrain from automatically reinvesting and use each dividend as an opportunity to partially [rebalance](https://www.investopedia.com/terms/r/rebalancing.asp) your portfolio. Either way, most people are best served by not treating dividends as a form of immediate income, but rather as a portion of their shares which they were forced to sell. (See [this video](https://www.youtube.com/watch?v=f5j9v9dfinQ) on the irrelevance of dividends.)
 
 For some people with small portfolios, each round of dividends will be so small that their sum may not even be enough to purchase a single share of one of your funds. In that case, keep it simple and adjust your settings so that all dividends are automatically reinvested.
 
