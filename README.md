@@ -15,7 +15,7 @@ If you want to switch brokers and you've already purchased securities, you can d
 
 ### Cash positions
 
-Your money being uninvested might seem too simple to bother addressing. But uninvested cash is actually one of the [major sources](https://www.wsj.com/articles/your-stock-trades-go-free-but-your-cash-is-in-chains-11570199582) of revenue for brokers, especially since trading commissions were [eliminated](https://www.wsj.com/articles/charles-schwab-ending-online-trading-commissions-on-u-s-listed-products-11569935983) in 2019.
+Your money being uninvested might seem too simple to bother addressing. But uninvested cash is actually one of the [major](https://www.wsj.com/articles/your-stock-trades-go-free-but-your-cash-is-in-chains-11570199582) [sources](https://www.wsj.com/articles/charles-schwab-paying-186-million-in-regulatory-settlement-over-robo-adviser-business-11655128036) of revenue for brokers, especially since trading commissions were [eliminated](https://www.wsj.com/articles/charles-schwab-ending-online-trading-commissions-on-u-s-listed-products-11569935983) in 2019.
 -->
 
 &nbsp;
