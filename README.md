@@ -10,6 +10,16 @@ The money from your first transfer may not be available to trade with for a few 
 
 If you want to switch brokers and you've already purchased securities, you can do an account transfer to avoid selling and triggering taxes. Usually, there is no fee to _sell_ shares of another manager's mutual funds (e.g., if you owned Fidelity mutual funds and transferred to a Schwab account). But before transferring mutual funds, you should verify that you can sell those specific funds without fees. Buying more shares will trigger prohibitively expensive transaction fees, if you can buy them at all. ETFs have the advantage of making account transfers easier, because you don't have to manage a transition away from the mutual funds you can no longer buy.
 
+&nbsp;
+
+### Is my money safe?
+
+Many people are aware that bank accounts in the US are insured by the [FDIC](https://en.wikipedia.org/wiki/Federal_Deposit_Insurance_Corporation) up to $250K per account. Client assets at brokerage firms are also insured, but there are many regulations intended to protect client assets before insurance is ever needed:
+
+"In virtually all cases, when a brokerage firm ceases to operate, customer assets are safe and typically are transferred in an orderly fashion to another registered brokerage firm. Multiple layers of protection safeguard investor assets. For example, registered brokerage firms must keep their customers' securities and cash segregated from their own so that, even if a firm fails, its customers' assets will be safe. Brokerage firms are also required to meet minimum net capital requirements to reduce the likelihood of insolvency, and to be members of the Securities Investor Protection Corp (SIPC), which protects customer securities accounts up to $500,000. SIPC protection comes into play in those rare cases of firm failure where customer assets are missing because of theft or fraud."
+
+You can read more [here](https://www.finra.org/investors/alerts/if-brokerage-firm-closes-its-doors). Note that securities in each account are insured up to $500K. So a client's taxable account, a Roth IRA, and a traditional IRA at the same firm are covered up to $500K. Splitting assets between different firms is not necessary even for those with more than $500K per account.
+
 <!--
 &nbsp;
 
