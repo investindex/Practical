@@ -6,6 +6,7 @@ Click to move to each section:
 * [Cash and margin accounts](https://github.com/investindex/Practical#cash-and-margin-accounts)
 * [Is my money safe?](https://github.com/investindex/Practical#is-my-money-safe)
 * [Order types](https://github.com/investindex/Practical#order-types)
+* [Large price drops and distributions — don't panic](https://github.com/investindex/Practical#large-price-drops-and-distributions--dont-panic)
 * [Dividends and rebalancing](https://github.com/investindex/Practical#dividends-and-rebalancing)
 * [Fractional shares](https://github.com/investindex/Practical#fractional-shares)
 * [Mutual funds](https://github.com/investindex/Practical#mutual-funds)
