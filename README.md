@@ -16,7 +16,26 @@ Your previous broker may charge a fee to transfer out. You can ask your new brok
 
 When you want to move money from investments to your bank account, the funds will not be available to withdraw until two business days after you sell the corresponding shares. So if you sold shares of a bond ETF on a Friday, the soonest you could transfer the money would be Tuesday morning (assuming no federal holidays; the time of day does not matter). This is due to the convention of a [two-day settlement period](https://www.investopedia.com/terms/s/settlement_period.asp).
 
-This restriction can be lifted: if you enable margin features in your account, you can transfer funds immediately after selling, up to a certain portion of your total account value. With a [margin account](https://www.sec.gov/oiea/investor-alerts-and-bulletins/ib_marginaccount), you can also sell shares of an ETF and immediately buy shares of a new one, instead of waiting two days in a cash account. For these reasons, I recommend enabling margin in your account. By law, a minimum of $2,000 is required to activate margin features. Ensure that you understand how margin works, even if you need to call your broker to clarify terminology — different brokers use different words for the same concepts. Margin accounts allow you to borrow funds from your broker (and pay interest), which is not a practice I would suggest for most investors. Stock and bond mutual fund trades generally settle within only one business day (e.g., a sale is executed on Monday evening and the funds settle on Tuesday).
+This restriction can be lifted: if you enable margin features in your account, you can transfer funds immediately after selling, up to a certain portion of your total account value. With a [margin account](https://www.sec.gov/oiea/investor-alerts-and-bulletins/ib_marginaccount), you can also sell shares of an ETF and immediately buy shares of a new one, instead of waiting two days in a cash account. For these reasons, I recommend enabling margin in your account. By law, a minimum of $2,000 is required to activate margin features. Margin accounts allow you to borrow funds from your broker (and pay interest), which is not a practice I would suggest for most investors. Stock and bond mutual fund trades generally settle within only one business day (e.g., a sale is executed on Monday evening and the funds settle on Tuesday). Margin accounts also allow you to [sell short](https://www.youtube.com/watch?v=CAs_aX95tVQ), which is not something the average investor needs to know how to do.
+
+All things considered, a margin account is arguably simpler to use than a cash account. The chief concerns with using each type of account are the following.
+
+Cash account:
+* good faith violations
+* freeriding violations
+* cash liquidation violations
+
+Margin account:
+* pattern day trader designation
+* unwittingly borrowing money
+
+The cash account violations are described [here](https://www.fidelity.com/learning-center/trading-investing/trading/avoiding-cash-trading-violations). Good faith violations are the main hazard.
+
+Before describing the pattern day trader rule, we should define a day trade. A day trade means that you opened and closed a given [position](https://www.investopedia.com/terms/p/position.asp) on the same day. Here's a day trade: you buy shares of XY on Wednesday and sell some or all of the shares on Wednesday. This is _not_ a day trade: you buy shares of XY on Wednesday, sell them on Thursday, buy more shares of XY later on Thursday, and sell them on Friday. On Thursday you closed a position then opened another; you didn't open and close a position on the same day. The pattern day trader rule dictates that a broker must label you a pattern day trader (PDT) if you execute at least four day trades within a rolling period of five business days. Why does it matter? After this designation, you'll be required to maintain an account value of at least $25K at all times. For many people, this would be an issue. Your broker is likely willing to remove the designation once or even a few times, but you need to know how to avoid it if your account is worth less than $25K or might fall below that threshold during a downturn.
+
+Second, don't spend more cash than is available in your account (assuming you want to avoid borrowing money). Different brokers use different words for the same concepts, so you may want to call your broker to clarify terminology. Borrowing money is not legally allowed in a tax-advantaged account, so instead of margin, you'll have access to [limited margin](https://us.etrade.com/knowledge/library/margin/how-to-trade-margin-ira) in your IRA. This allows you to trade without worrying about settlement periods, but naturally does not permit you to invest with borrowed money. Your broker may require a minimum of $25K in the account.
+
+Margin is an account feature that you need to apply for. This is a risk management tactic on their part to ensure their clients aren't putting themselves in debt by signing up for margin without any understanding. Your broker will ask about your knowledge of and experience with investing (e.g., years of experience). Without suggesting anything, it's [not unheard of](https://www.youtube.com/watch?v=CSz67F0ZS0w&t=139s) to exaggerate one's net worth or experience in order to ensure that you'll be approved for margin.
 
 &nbsp;
 
