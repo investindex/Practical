@@ -1,5 +1,17 @@
 # Practical information for execution
 
+Click to move to each section:
+
+* [Brokerage accounts](https://github.com/investindex/Practical#brokerage-accounts)
+* [Cash and margin accounts](https://github.com/investindex/Practical#cash-and-margin-accounts)
+* [Is my money safe?](https://github.com/investindex/Practical#is-my-money-safe)
+* [Order types](https://github.com/investindex/Practical#order-types)
+* [Dividends and rebalancing](https://github.com/investindex/Practical#dividends-and-rebalancing)
+* [Fractional shares](https://github.com/investindex/Practical#fractional-shares)
+* [Mutual funds](https://github.com/investindex/Practical#mutual-funds)
+
+&nbsp;
+
 ### Brokerage accounts
 
 Most of the asset managers discussed in previous sections do not offer brokerage services, so their products must be purchased through other institutions. The brokers discussed so far are Vanguard, Fidelity, and Schwab. Other brokers include E\*Trade, Ally Invest, and Interactive Brokers. Vanguard’s website is difficult to use compared to its peers, so even if you decide on Vanguard funds, I would suggest purchasing them as ETFs through Fidelity or Schwab. Feel free to create an account with each broker to experience the website and mobile app.
