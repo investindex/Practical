@@ -128,7 +128,7 @@ The writing up to this point may have given the impression that, if one wants to
 
 If you want to move money from one mutual fund to another, it's not ideal to sell shares and then buy shares after the sell order has executed. If you sell on a Monday, your order will execute after hours and you'll have cash on Tuesday. Once you buy shares on Tuesday, your order will execute after hours and you'll have missed the entire day's movement. Since the movement tends to be upward, we want to avoid this. Instead of selling, we can select "exchange". This will allow us to sell and buy shares after hours on Monday without missing Tuesday. Schwab phrases this option clearly: select "sell and buy another" to perform an exchange in a Schwab account.
 
-For logistical and financial reasons, some mutual funds prohibit frequent trading. Fidelity mutual funds suspend users from purchasing further shares for 85 days if their [rules](http://personal.fidelity.com/products/trading/Trading_Platforms_Tools/excessive_trading_policies.shtml) are violated. A single, occasional sale within 30 days of a purchase is acceptable. Suspension will occur if you sell shares within 30 days of a purchase more than once within a 90-day period. They will never block sales, only purchases. Trades of $1,000 or less are exempt from this policy and will never trigger a block. There are no such restrictions on ETF trading.
+For logistical and financial reasons, some mutual funds prohibit frequent trading. Before you start using your employer-sponsored retirement plan, you should find out whether your plan provider has restrictions against frequent trading. There are no such restrictions on ETF trading (although ETFs are rarely offered by employer-sponsored plans).
 
 &nbsp;
 
