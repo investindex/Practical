@@ -60,7 +60,9 @@ Many people are aware that bank accounts in the US are insured by the [FDIC](htt
 
 You can read more [here](https://www.finra.org/investors/alerts/if-brokerage-firm-closes-its-doors) from FINRA. Note that securities in each account are insured up to $500K. So a client's taxable account, Roth IRA, and traditional IRA at the same firm are each covered up to $500K. Splitting assets between different firms is not necessary even for those with more than $500K per account.
 
-If an asset manager like BlackRock were to fail, and you were invested in one of their funds, either the fund would be transferred to another manager or the assets would be liquidated and returned to shareholders. Your money is safe.
+If an asset manager like BlackRock were to fail, and you were invested in one of their funds, either the fund would be transferred to another manager or the assets would be liquidated and returned to shareholders.
+
+Your money is safe.
 
 <!--
 &nbsp;
