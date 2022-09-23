@@ -58,7 +58,9 @@ Many people are aware that bank accounts in the US are insured by the [FDIC](htt
 
 "In virtually all cases, when a brokerage firm ceases to operate, customer assets are safe and typically are transferred in an orderly fashion to another registered brokerage firm. Multiple layers of protection safeguard investor assets. For example, registered brokerage firms must keep their customers' securities and cash segregated from their own so that, even if a firm fails, its customers' assets will be safe. Brokerage firms are also required to meet minimum net capital requirements to reduce the likelihood of insolvency, and to be members of the [Securities Investor Protection Corp (SIPC)](https://www.sipc.org/), which protects customer securities accounts up to $500,000. SIPC protection comes into play in those rare cases of firm failure where customer assets are missing because of theft or fraud."
 
-You can read more [here](https://www.finra.org/investors/alerts/if-brokerage-firm-closes-its-doors) from FINRA. Note that securities in each account are insured up to $500K. So a client's taxable account, Roth IRA, and traditional IRA at the same firm are each covered up to $500K. Splitting assets between different firms is not necessary even for those with more than $500K per account. Your money is safe.
+You can read more [here](https://www.finra.org/investors/alerts/if-brokerage-firm-closes-its-doors) from FINRA. Note that securities in each account are insured up to $500K. So a client's taxable account, Roth IRA, and traditional IRA at the same firm are each covered up to $500K. Splitting assets between different firms is not necessary even for those with more than $500K per account.
+
+If an asset manager like BlackRock were to fail, either the fund would be transferred to another manager or the assets would be liquidated and returned to shareholders. Your money is safe.
 
 <!--
 &nbsp;
