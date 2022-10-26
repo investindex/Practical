@@ -116,7 +116,7 @@ Based on research like this, I would suggest a restrained approach to rebalancin
 
 ### Fractional shares
 
-Fidelity is the only major broker that offers fractional shares for all ETFs (as well as stocks). Vanguard is piloting a feature to allow fractional shares for Vanguard ETFs only. Schwab offers fractional shares only for S&P 500 stocks, so it's not currently possible to purchase fractional ETF shares through Schwab.
+Fidelity is the only major broker that offers fractional shares for all ETFs (as well as stocks). Vanguard allows fractional shares for Vanguard ETFs only. Schwab offers fractional shares only for S&P 500 stocks, so it's not currently possible to purchase fractional ETF shares through Schwab.
 
 If you decide to use fractional shares, you should be aware of a few details. Dealing in fractional shares may mean that your trade cannot be executed instantly in full, because the broker purchases your whole shares immediately but needs to combine your fractional share with those owned by others. The Plain Bagel's [video](https://www.youtube.com/watch?v=P3oZOg9yRuY) on this is a great explanation. Since mainstream ETFs are rarely volatile, this will not matter in the vast majority of cases, but you should be aware of it. No matter how many ETFs are in an allocation plan, it is necessary to buy only one fractional share, and this is wise even if it means that the proportions will not be perfect.
 
