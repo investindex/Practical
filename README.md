@@ -42,7 +42,7 @@ Margin account:
 * unwittingly borrowing money
 * pattern day trader designation
 
-The cash account violations are described [here](https://www.fidelity.com/learning-center/trading-investing/trading/avoiding-cash-trading-violations). Good faith violations are the main hazard. You can still sell and buy on the same day in a cash account, as long as you don't sell again before the first trade settles.
+The cash account violations are described [here](https://www.fidelity.com/learning-center/trading-investing/trading/avoiding-cash-trading-violations). Good faith violations are the main hazard. You can still sell and buy on the same day in a cash account, as long as you don't sell _again_ before the first trade settles.
 
 With margin enabled, don't spend more cash than you have in your account (assuming you want to avoid borrowing money). This is straightforward, although different brokers use different words for the same concepts, so you may want to call your broker to clarify terminology. Borrowing money is not legally allowed in a tax-advantaged account, so instead of margin, you'll have access to [limited margin](https://us.etrade.com/knowledge/library/margin/how-to-trade-margin-ira) in your IRA. This allows you to trade without worrying about settlement periods, but naturally does not permit you to invest with borrowed money. Your broker may require a minimum of $25K in the account. Fidelity offers a user-friendly feature in their brokerage account called "[Margin with Debt Protection](https://www.fidelity.com/learning-center/trading-investing/margin-debt-protection)", which provides the benefits of margin without the possibility of accidentally borrowing money.
 
