@@ -90,7 +90,7 @@ Trading is most active after the market opens at 9:30am and as the close approac
 
 When you submit an order, it will either expire at the end of the day (a [day order](https://www.investopedia.com/terms/d/dayorder.asp)) or will be [Good 'Til Canceled](https://www.investopedia.com/terms/g/gtc.asp) (GTC). Most of the time this distinction will not matter, because your orders should execute quickly. I don't recommend trying to wait multiple days for price improvement by using a limit order: just submit your orders and keep it simple.
 
-None of this applies to mutual funds: there is no bid-ask spread and trades can occur only once per day.
+None of this applies to mutual funds: there is no bid-ask spread and trades can occur only once per day at 4pm.
 
 &nbsp;
 
