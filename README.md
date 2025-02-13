@@ -1,3 +1,5 @@
+I recently [started a Substack](https://rjwthree.substack.com/) to organize these ideas into more bite-size and easily readable posts. You can subscribe for free. I'll mainly be working there instead of maintaining and expanding this document.
+
 # Practical information for execution
 
 Click to move to each section:
